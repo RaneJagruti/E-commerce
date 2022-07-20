@@ -1,0 +1,39 @@
+body{
+    margin:0px;
+}
+#Card{
+    background-color:rgb(225, 209, 218);
+}
+#Img{
+    background-color: rgb(236, 239, 242);
+}
+#Img .card:hover{
+    transform: scale(1.03);
+}
+nav{
+    position: sticky;
+}
+#navbar {
+    font-family: 'Ubuntu', sans-serif;
+   
+}
+#carouselExampleCaptions{
+    font-family: 'Roboto Slab', serif;
+}
+#Card p{
+    font-family: 'Titillium Web', sans-serif;
+}
+#Card h5{
+    font-family: 'Noto Serif', serif;
+    font-weight: bolder;
+}
+#Img .card-header{
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+}
+footer{
+    background-color: black;
+    color:white;
+    padding:15px 50px;
+}
+
